@@ -1,0 +1,15 @@
+$git init  // this inits the local Git repo
+$git add <file> // this adds the file to the index
+$git status  //check status of working tree
+$git commit	   // commit changes in index
+$git push     // push to the remote repo 
+$git pull   // pull latest from remote repo 
+$git clone // clone repo to a new directory 
+
+
+$git config --global user.name 'frankcorners'  // to add your username 
+
+$git config --global user.email 'frankcorners@gmail.com'   // to add your email id 
+
+$git rm --cached <file>   // to remove the file 
+..
