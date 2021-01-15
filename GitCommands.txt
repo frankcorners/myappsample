@@ -12,4 +12,5 @@ $git config --global user.name 'frankcorners'  // to add your username
 $git config --global user.email 'frankcorners@gmail.com'   // to add your email id 
 
 $git rm --cached <file>   // to remove the file 
-..
+
+git add .   // this would add all the files
